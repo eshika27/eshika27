@@ -2,7 +2,7 @@
 <h3 align="center">💻 A AI Enthusiast , India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+  <img src="https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--422281207608337/ alt="gif">
 </p>
 
 <p align="center">
