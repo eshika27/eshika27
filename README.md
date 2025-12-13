@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/amit_sahani_19?logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow?logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/eshika-kumari-174b24341">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
